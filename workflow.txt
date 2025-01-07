@@ -1,0 +1,2 @@
+Real-time Wind Speed Data → Update Sliding Window (Last 60 Points) → Predict Next 10 Seconds →
+Receive New Actual Wind Speed → Monitor Performance → Detect Sudden Changes → Repeat Every 10 Seconds
